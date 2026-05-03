@@ -123,5 +123,5 @@ Visit [codebasics.io](https://codebasics.io) to access.
 ---
 
 ## 📬 Connect
-[LinkedIn](https://linkedin.com/in/yourprofile) •
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/anshul-chaudhary-508138308)
+[GitHub](https://github.com/morid648)
