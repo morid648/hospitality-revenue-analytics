@@ -117,8 +117,8 @@ Visit [codebasics.io](https://codebasics.io) to access.
 ---
 
 ## Author
--Anshul Chaudhary
--morid648@gmail.com
+- Anshul Chaudhary
+- morid648@gmail.com
 
 ---
 
