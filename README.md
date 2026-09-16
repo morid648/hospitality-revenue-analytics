@@ -23,7 +23,7 @@ wants to understand:
 ## 💡 Key Insights
 - 🏙️ **Mumbai** is leisure-driven — weekends show strong demand
 - 💼 **Delhi** is business-driven — weekdays show strong occupancy
-- 📉 **Hyderabad** underperforms on both RevPAR and occupancy
+- 📉 **Hyderabad** has the lowest RevPAR; **Bangalore** has the lowest occupancy
 - 📆 **Weekends outperform weekdays** across all cities
 - ❌ **~25% cancellation rate** is consistent across all platforms
 - 👑 **Luxury segment** generates significantly higher revenue
@@ -62,17 +62,13 @@ hospitality-revenue-analytics/
 │
 ├── 📁 visuals/
 │   ├── revpar_by_city.png
+│   ├── revpar_by_city_day_type.png
 │   ├── occupancy_daytype.png
 │   ├── cancellation_rate.png
 │   ├── monthly_trend.png
 │   └── README.md
 │
-├── 📁 presentation/
-│   ├── hospitality_strategy.pptx
-│   └── README.md
-│
-├── analysis.ipynb
-├── .gitignore
+├── Hospitality analysis.ipynb
 ├── requirements.txt
 └── README.md
 
@@ -82,6 +78,9 @@ hospitality-revenue-analytics/
 
 ### RevPAR by City
 ![RevPAR by City](visuals/revpar_by_city.png)
+
+### RevPAR by City and Day Type
+![RevPAR by City and Day Type](visuals/revpar_by_city_day_type.png)
 
 ### Weekend vs Weekday Occupancy
 ![Occupancy](visuals/occupancy_daytype.png)
